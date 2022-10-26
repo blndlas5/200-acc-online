@@ -6140,7 +6140,7 @@ jano200.on("ready", () => {
 
 //////////////// tokn lera da bne
 
-jano.login("");
+jano.login("MTAzNDkxODkzMTc2MjI2NjEyMw.GYpSI4.M9e4mq59GdymjpiP7cohL9ATUK9kcsdNjv0tR8");
 jano2.login("");
 jano3.login("");
 jano4.login("");
